@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "reveal.js": "3.2.0",
-    "express": "4.13.4",
+    "express": "4.17.1",
     "mustache": "2.2.1",
     "open": "0.0.5",
     "glob": "7.0.0",
