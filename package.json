@@ -22,7 +22,7 @@
     "express": "4.13.4",
     "mustache": "2.2.1",
     "open": "0.0.5",
-    "glob": "7.0.0",
+    "glob": "7.1.7",
     "commander": "2.9.0",
     "highlight.js": "9.2.0",
     "yaml-front-matter": "^3.4.0"
